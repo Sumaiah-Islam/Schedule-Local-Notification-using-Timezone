@@ -1,3 +1,5 @@
+Detals process - https://medium.com/@sumaiah.mitu/flutter-schedule-local-notification-using-timezone-da0908f7d67b
+
 # schedule_notification
 
 A new Flutter project.
